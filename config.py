@@ -80,7 +80,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "unwilling-pam-fsdvzcvzxv-e299a181.koyeb.app/")
+URL = environ.get("URL", "https://local-ardeen-fsdvzcvzxv-db9faf59.koyeb.app/")
 
 
 # Don't Remove Credit Tg - @VJ_Botz
