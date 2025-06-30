@@ -10,11 +10,7 @@ class script(object):
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-  CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
-
-⚙️ sɪᴢᴇ : {file_size}
-
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/motumovies)</b>""" 
+  CAPTION = """<b>📂 {file_name}</b>""" 
 
 
 
