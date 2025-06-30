@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b><blockquote>◈ Adult : <a href=https://t.me/+A9U62ZfrbEZkZWZl>Join Now</a>\n◈ Movies : <a href=https://t.me/+IqIpe9Yoqa9jNDE1>Join Now</a>\n◈ Mainn Channel : <a href=https://t.me/motumovies>Join Now</a>\n</a>\n◈ How to Download: <a href=https://t.me/bolomotu/1378>Watch Now</a>\n</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/vipmotu>Vip Motu</a></blockquote></b>"""
+    START_TXT = """<b><blockquote>◈ Adult : <a href=https://t.me/+A9U62ZfrbEZkZWZl>Join Now</a>\n◈ Movies : <a href=https://t.me/+IqIpe9Yoqa9jNDE1>Join Now</a>\n</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/vipmotu>Vip Motu</a></blockquote></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
