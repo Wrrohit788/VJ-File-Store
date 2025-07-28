@@ -63,7 +63,7 @@ async def start(client, message):
             InlineKeyboardButton('How to download📂', url='https://t.me/bolomotu/1378')
             ],[
             InlineKeyboardButton('◈ Adult Channel', url='https://t.me/motulinks'),
-            InlineKeyboardButton('◈ Backup ᴄʜᴀɴɴᴇʟ', url='https://t.me/+A9U62ZfrbEZkZWZl')
+            InlineKeyboardButton('◈ Backup ᴄʜᴀɴɴᴇʟ', url='https://t.me/motumoviess')
             ]]
         if CLONE_MODE == True:
             buttons.append([InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')])
@@ -202,7 +202,7 @@ async def start(client, message):
                     await x.delete()
                 except:
                     pass
-            await k.edit_text("<b>Join for more Video👉 @motulinks</b>")
+            await k.edit_text("<b>Kab tak Link per click Karoge \nBuy VIP Groups👉 @motumovies</b>")
         return
 
 # Don't Remove Credit Tg - @VJ_Botz
