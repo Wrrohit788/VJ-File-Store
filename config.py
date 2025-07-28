@@ -18,12 +18,12 @@ def is_enabled(value, default):
         return default
       
 # Bot Information
-API_ID = int(environ.get("API_ID", "28981892"))
-API_HASH = environ.get("API_HASH", "6988b86c878e6f0548e1d32f0e76ad70")
-BOT_TOKEN = environ.get("BOT_TOKEN", "7834578556:AAHGqfGX3bYgbLRzApPpwBGasYlbzkCWLsg")
+API_ID = int(environ.get("API_ID", "27693415"))
+API_HASH = environ.get("API_HASH", "8dc020d35ff99813b494f20955d8c724")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8353723670:AAG8zb5jbnKxhgdRqN4SFhNbOD27gHtC-RY")
 
 PICS = (environ.get('PICS', 'https://envs.sh/utL.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7807635630').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '8115758627').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "mrvials") # without @
 PORT = environ.get("PORT", "8080")
 
