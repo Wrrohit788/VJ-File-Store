@@ -18,13 +18,13 @@ def is_enabled(value, default):
         return default
       
 # Bot Information
-API_ID = int(environ.get("API_ID", "27693415"))
-API_HASH = environ.get("API_HASH", "8dc020d35ff99813b494f20955d8c724")
-BOT_TOKEN = environ.get("BOT_TOKEN", "7987591680:AAF3P2yNZ3OKiazc7msiwkadaLrQ2OVdrkw")
+API_ID = int(environ.get("API_ID", "28981892"))
+API_HASH = environ.get("API_HASH", "6988b86c878e6f0548e1d32f0e76ad70")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7834578556:AAHGqfGX3bYgbLRzApPpwBGasYlbzkCWLsg")
 
 PICS = (environ.get('PICS', 'https://envs.sh/utL.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5783103507').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "mrvial") # without @
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7807635630').split()]
+BOT_USERNAME = environ.get("BOT_USERNAME", "mrvials") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
@@ -43,10 +43,10 @@ AUTO_DELETE_MODE = bool(environ.get('AUTO_DELETE_MODE', True)) # Set True or Fal
 
 # If Auto Delete Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
 AUTO_DELETE = int(environ.get("AUTO_DELETE", "10")) # Time in Minutes
-AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "1800")) # Time in Seconds
+AUTO_DELETE_TIME = int(environ.get("AUTO_DELETE_TIME", "600")) # Time in Seconds
 
 # Channel Information
-LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002736654145"))
+LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002558615397"))
 
 # File Caption Information
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CAPTION}")
