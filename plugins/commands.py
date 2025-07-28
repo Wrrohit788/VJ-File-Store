@@ -195,7 +195,7 @@ async def start(client, message):
             await asyncio.sleep(1) 
         await sts.delete()
         if AUTO_DELETE_MODE == True:
-            k = await client.send_message(chat_id = message.from_user.id, text=f"<b>Join for more Video👉 @motulinks</b>")
+            k = await client.send_message(chat_id = message.from_user.id, text=f"<b>Kab tak Link per click Karoge \nBuy VIP Groups👉 @motumovies</b>")
             await asyncio.sleep(AUTO_DELETE_TIME)
             for x in filesarr:
                 try:
@@ -253,7 +253,7 @@ async def start(client, message):
         else:
             del_msg = await msg.copy(chat_id=message.from_user.id, protect_content=False)
         if AUTO_DELETE_MODE == True:
-            k = await client.send_message(chat_id = message.from_user.id, text=f"<b>For More Vidos \nJoin Now👉 @motulinks</b>")
+            k = await client.send_message(chat_id = message.from_user.id, text=f"<b>Kab tak Link per click Karoge \nBuy VIP Groups👉 @motumovies</b>")
             await asyncio.sleep(AUTO_DELETE_TIME)
             try:
                 await del_msg.delete()
@@ -338,10 +338,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
     
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('How to download📂', url='https://t.me/bolomotu/1378')
+            InlineKeyboardButton('How to download📂', url='https://t.me/bolomotu/2937')
             ],[
             InlineKeyboardButton('◈ Adult Channel', url='https://t.me/motulinks'),
-            InlineKeyboardButton('◈ Backup ᴄʜᴀɴɴᴇʟ', url='https://t.me/+A9U62ZfrbEZkZWZl')
+            InlineKeyboardButton('◈ Backup ᴄʜᴀɴɴᴇʟ', url='https://t.me/motumoviess')
             ]]
         if CLONE_MODE == True:
             buttons.append([InlineKeyboardButton('🤖 ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ', callback_data='clone')])
