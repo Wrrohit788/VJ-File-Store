@@ -4,7 +4,7 @@
 
 
 class script(object):
-    START_TXT = """<b><blockquote>◈ Adult : <a href=https://t.me/+A9U62ZfrbEZkZWZl>Join Now</a>\n◈ Movies : <a href=https://t.me/+IqIpe9Yoqa9jNDE1>Join Now</a>\n</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/vipmotu>Vip Motu</a></blockquote></b>"""
+    START_TXT = """<b><blockquote>◈ Adult : <a href=https://t.me/motumoviess>Join Now</a>\n◈ Movies : <a href=https://t.me/motulinks>Join Now</a>\n</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/wrrohit02>Vip Motu</a></blockquote></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -49,7 +49,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 ◈Backup: <a href=hhttps://t.me/bolomotu>Join Now</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/motumovies>Join Now/a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/motumoviess>Join Now/a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/motulinks>Join Now</a></b>
 
